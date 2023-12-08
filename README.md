@@ -1,14 +1,25 @@
-### Hi there 👋
+### Hi there 👋, my name is Lokman Hakim Shawon
+#### Web Developer
+![Web Developer](https://i.ibb.co/0tjtsKr/2.png)
 
-**Lokman-Hakim-Shawon/Lokman-Hakim-Shawon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Lokman Hakim Shaon. I am a web developer. I can create projects using HTML, CSS, Tailwind CSS, JavaScript, React, Node.js, and MongoDB. I am striving to create even better projects using these technologies.
 
-Here are some ideas to get you started:
+Skills: HTML / CSS / JS / TAILWIND / REACT 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on this page. 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Lokman Hakim Shawon)  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Lokman Hakim Shawon)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lokman Hakim Shawon)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Lokman Hakim Shawon&show_icons=true&count_private=true)  
+
+![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/Lokman Hakim Shawon/contributions?format=svg&private=true)  
+
+![GitHub metrics](https://metrics.lecoq.io/Lokman Hakim Shawon)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=Lokman Hakim Shawon)  
+
