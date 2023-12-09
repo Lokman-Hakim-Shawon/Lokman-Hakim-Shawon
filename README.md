@@ -13,10 +13,6 @@ Skills: HTML / CSS / JS / TAILWIND / REACT
 <br/>
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,node.mongo)](https://skillicons.dev)
 
-![Uploading Lokman-Hakim-Shawon_langs (1).png…]()
-
-
-
  ## My Projects
  - Blood Donation : https://github.com/Lokman-Hakim-Shawon/Blood-Donation
  - Blog Site : https://github.com/Lokman-Hakim-Shawon/Blog-Site
