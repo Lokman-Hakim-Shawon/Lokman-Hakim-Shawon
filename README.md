@@ -13,7 +13,7 @@ Skills: HTML / CSS / JS / TAILWIND / REACT
 <br/>
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,node.mongo)](https://skillicons.dev)
 
-![Lokman-Hakim-Shawon_langs](https://github.com/Lokman-Hakim-Shawon/Lokman-Hakim-Shawon/assets/129610381/e5b2e239-9ab8-4f7c-9f4c-0a2d79cc6052)
+![Uploading Lokman-Hakim-Shawon_langs (1).png…]()
 
 ![Lokman-Hakim-Shawon_langs (1) height='40'](https://github.com/Lokman-Hakim-Shawon/Lokman-Hakim-Shawon/assets/129610381/27cd88ee-b3f4-40e3-9caf-e5c1db6d46d8)
 
