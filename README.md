@@ -13,7 +13,7 @@ Skills: HTML / CSS / JS / TAILWIND / REACT
 <br/>
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,firebase,github,linkedin,nodejs,mongo,vite)](https://skillicons.dev)
 
-https://api.githubtrends.io/user/svg/Lokman-Hakim-Shawon/langs?time_range=one_year&theme=classic
+[<img src='https://i.ibb.co/9Ww13k3/Lokman-Hakim-Shawon-langs-1.png' alt='github' height='40'>](https://github.com/Lokman )
  ## My Projects
  - Blood Donation : https://github.com/Lokman-Hakim-Shawon/Blood-Donation
  - Blog Site : https://github.com/Lokman-Hakim-Shawon/Blog-Site
