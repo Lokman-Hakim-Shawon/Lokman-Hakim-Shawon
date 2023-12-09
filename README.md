@@ -15,7 +15,6 @@ Skills: HTML / CSS / JS / TAILWIND / REACT
 
 ![Uploading Lokman-Hakim-Shawon_langs (1).png…]()
 
-![Lokman-Hakim-Shawon_langs (1) height='40'](https://github.com/Lokman-Hakim-Shawon/Lokman-Hakim-Shawon/assets/129610381/27cd88ee-b3f4-40e3-9caf-e5c1db6d46d8)
 
 
  ## My Projects
