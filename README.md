@@ -2,9 +2,9 @@
 #### Web Developer
 ![Web Developer](https://i.ibb.co/YXzcVBx/cover-1.jpg)
 
-My name is Lokman Hakim Shaon. I am a web developer. I can create projects using HTML, CSS, Tailwind CSS, JavaScript, React, Node.js, and MongoDB. I am striving to create even better projects using these technologies.
+My name is Lokman Hakim Shaon. I am a web developer. I can create projects using HTML, CSS, Tailwind CSS, JavaScript, React, Node.js,Next.js (basic), express.js  and MongoDB. I am striving to create even better projects using these technologies.
 
-Skills: HTML / CSS / JS / TAILWIND / REACT 
+Skills: HTML / CSS / JS / TAILWIND / REACT / NODE / NEXT / EXPRESS / MONGODB
 
 
 
@@ -15,6 +15,7 @@ Skills: HTML / CSS / JS / TAILWIND / REACT
 [<img src='https://i.ibb.co/9Ww13k3/Lokman-Hakim-Shawon-langs-1.png' alt='github' height='300' >](https://github.com/Lokman )
 
  ## My Projects
+ - MyRataurant : https://github.com/Lokman-Hakim-Shawon/MyRestaurant
  - Blood Donation : https://github.com/Lokman-Hakim-Shawon/Blood-Donation
  - Blog Site : https://github.com/Lokman-Hakim-Shawon/Blog-Site
  - Phone Shop : https://github.com/Lokman-Hakim-Shawon/Mobile-Shope
