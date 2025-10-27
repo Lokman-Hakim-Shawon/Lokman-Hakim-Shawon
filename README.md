@@ -16,6 +16,7 @@ Skills: HTML / CSS / JS / TAILWIND / REACT / NODE / NEXT / EXPRESS / MONGODB
 
  ## My Projects
  - MyRataurant : https://github.com/Lokman-Hakim-Shawon/MyRestaurant
+ - hich-co : https://github.com/Lokman-Hakim-Shawon/hich-co-project (copy design from hich-co website) 
  - Blood Donation : https://github.com/Lokman-Hakim-Shawon/Blood-Donation
  - Blog Site : https://github.com/Lokman-Hakim-Shawon/Blog-Site
  - Phone Shop : https://github.com/Lokman-Hakim-Shawon/Mobile-Shope
